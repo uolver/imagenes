@@ -1,0 +1,31 @@
+img{
+    width: 33.33%;
+}
+
+div{
+    background-color: aquamarine;
+    width: 80%;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+    background-color: aqua;
+}
+
+p{
+    text-align: center;   
+    font-weight: bold;
+    background-color: chartreuse;
+    padding: 10px;
+}
+
+figure{
+    display: flex;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
